@@ -10,6 +10,10 @@ A Next.js application for finding and managing study spots in Singapore using Op
 - Save favorite study spots
 - Responsive design for mobile and desktop
 
+## Live Demo
+
+Visit the live site: https://chujieying.github.io/productivity-hub/
+
 ## Technologies Used
 
 - Next.js
@@ -30,7 +34,7 @@ A Next.js application for finding and managing study spots in Singapore using Op
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/productivity-hub.git
+git clone https://github.com/chujieying/productivity-hub.git
 cd productivity-hub
 ```
 
@@ -50,11 +54,9 @@ yarn dev
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Deployment
+## Deployment Status
 
-This project is configured for GitHub Pages deployment. The site will be available at:
-
-https://yourusername.github.io/productivity-hub/
+This project is automatically deployed to GitHub Pages using GitHub Actions.
 
 ## License
 
