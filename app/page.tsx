@@ -1,6 +1,6 @@
 import PomodoroTimer from "@/components/pomodoro-timer"
 import TodoList from "@/components/todo-list"
-import StudySpotMap from "@/components/study-spot-map"
+import { StudySpotMap } from "@/components/study-spot-map"
 import UserAuthForm from "@/components/auth/user-auth-form"
 
 export default function Home() {
